@@ -131,7 +131,7 @@ accuracy_score
 ### 7. Gradio 인터페이스
 
 ```python
-gr.Interface
+http://127.0.0.1:7860
 ```
 사용자가 직접 값을 입력하여  
 실시간으로 클래스 예측 결과를 확인할 수 있습니다.
